@@ -52,8 +52,8 @@ await db.run(`INSERT INTO jobs (
 ) VALUES (
     "Pizzaria Guloso",
     2,
-    1,
-    1617514376018
+    40,
+    1619700321888
 )`);
 
 await db.run(`INSERT INTO jobs (
@@ -63,9 +63,9 @@ await db.run(`INSERT INTO jobs (
     created_at
 ) VALUES (
     "One Two Projects",
-    3,
-    47,
-    1617514376018
+    2,
+    20,
+    1619700321888
 )`);
 
 
